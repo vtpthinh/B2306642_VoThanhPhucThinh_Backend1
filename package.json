@@ -1,0 +1,25 @@
+{
+  "name": "b2306642_vothanhphucthinh_backend1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtpthinh/B2306642_VoThanhPhucThinh_Backend1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vtpthinh/B2306642_VoThanhPhucThinh_Backend1/issues"
+  },
+  "homepage": "https://github.com/vtpthinh/B2306642_VoThanhPhucThinh_Backend1#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
